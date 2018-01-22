@@ -1,3 +1,30 @@
-body {
-  background: purple;
+.splashscreen {
+  background-color: pink;;
+}
+
+#principal {
+  background-image: url(../assets/images/calle.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#imagen-1 {
+  width: 25%;
+}
+
+#imagen-2 {
+  margin-bottom: 100%;
+  margin-top: 100px;
+  width: 90%;
+}
+
+.button {
+  border: 1px solid white;
+  color: white;
+  margin-bottom: 100px;
+}
+/*sing*/
+.banderas {
+  width: 50px;
 }
