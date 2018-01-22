@@ -1,5 +1,10 @@
 .splashscreen {
-  background-color: pink;;
+  background:linear-gradient(#520060, #E30A8A);
+}
+
+.img-white {
+  margin: 200px 0px;
+  width: 100%;
 }
 
 #principal {
